@@ -1,0 +1,1157 @@
+[
+  {
+    "filename": "jackson-databind_CVE-2019-12814_jackson-databind-jackson-databind-2.9.9.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2019-12814",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.9",
+    "version": "2.9.9"
+  },
+  {
+    "filename": "undertow_CVE-2017-12165_undertow-2.0.0.Alpha1.csv",
+    "project_name": "undertow",
+    "cve_id": "CVE-2017-12165",
+    "details_and_version": "undertow-2.0.0.Alpha1",
+    "version": "2.0.0"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-25649_jackson-databind-jackson-databind-2.0.0-RC2.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-25649",
+    "details_and_version": "jackson-databind-jackson-databind-2.0.0-RC2",
+    "version": "2.0.0-RC2"
+  },
+  {
+    "filename": "jackson-databind_CVE-2019-14379_jackson-databind-jackson-databind-2.9.9.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2019-14379",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.9",
+    "version": "2.9.9"
+  },
+  {
+    "filename": "commons-compress_CVE-2021-36090_commons-compress-rel-1.0.csv",
+    "project_name": "commons-compress",
+    "cve_id": "CVE-2021-36090",
+    "details_and_version": "commons-compress-rel-1.0",
+    "version": "1.0"
+  },
+  {
+    "filename": "commons-fileupload_CVE-2016-1000031_commons-fileupload-commons-fileupload-1.3.2.csv",
+    "project_name": "commons-fileupload",
+    "cve_id": "CVE-2016-1000031",
+    "details_and_version": "commons-fileupload-commons-fileupload-1.3.2",
+    "version": "1.3.2"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-14061_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-14061",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "jackson-dataformat-xml_CVE-2016-7051_jackson-dataformat-xml-jackson-dataformat-xml-2.8.3.csv",
+    "project_name": "jackson-dataformat-xml",
+    "cve_id": "CVE-2016-7051",
+    "details_and_version": "jackson-dataformat-xml-jackson-dataformat-xml-2.8.3",
+    "version": "2.8.3"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-10968_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-10968",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "orientdb_CVE-2015-2912_orientdb-2.1.0.csv",
+    "project_name": "orientdb",
+    "cve_id": "CVE-2015-2912",
+    "details_and_version": "orientdb-2.1.0",
+    "version": "2.1.0"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-36181_jackson-databind-jackson-databind-2.9.10.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-36181",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10.7",
+    "version": "2.9.10.7"
+  },
+  {
+    "filename": "commons-compress_CVE-2021-35515_commons-compress-1.20-RC1.csv",
+    "project_name": "commons-compress",
+    "cve_id": "CVE-2021-35515",
+    "details_and_version": "commons-compress-1.20-RC1",
+    "version": "1.20-RC1"
+  },
+  {
+    "filename": "prime-jwt_CVE-2018-1000531_fusionauth-jwt-1.3.0.csv",
+    "project_name": "prime-jwt",
+    "cve_id": "CVE-2018-1000531",
+    "details_and_version": "fusionauth-jwt-1.3.0",
+    "version": "1.3.0"
+  },
+  {
+    "filename": "jackson-databind_CVE-2019-14540_jackson-databind-jackson-databind-2.9.9.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2019-14540",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.9",
+    "version": "2.9.9"
+  },
+  {
+    "filename": "jackson-databind_CVE-2018-11307_jackson-databind-jackson-databind-2.9.4.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2018-11307",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.4",
+    "version": "2.9.4"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-9546_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-9546",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "commons-fileupload_CVE-2016-3092_commons-fileupload-FILEUPLOAD_1_3_1.csv",
+    "project_name": "commons-fileupload",
+    "cve_id": "CVE-2016-3092",
+    "details_and_version": "commons-fileupload-FILEUPLOAD_1_3_1",
+    "version": "1_3_1"
+  },
+  {
+    "filename": "jackson-databind_CVE-2019-16942_jackson-databind-jackson-databind-2.0.0-RC3.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2019-16942",
+    "details_and_version": "jackson-databind-jackson-databind-2.0.0-RC3",
+    "version": "2.0.0-RC3"
+  },
+  {
+    "filename": "spring-data-commons_CVE-2018-1273_spring-data-commons-2.0.0.M4.csv",
+    "project_name": "spring-data-commons",
+    "cve_id": "CVE-2018-1273",
+    "details_and_version": "spring-data-commons-2.0.0.M4",
+    "version": "2.0.0"
+  },
+  {
+    "filename": "zt-zip_CVE-2018-1002201_zt-zip-zt-zip-1.12.csv",
+    "project_name": "zt-zip",
+    "cve_id": "CVE-2018-1002201",
+    "details_and_version": "zt-zip-zt-zip-1.12",
+    "version": "1.12"
+  },
+  {
+    "filename": "cron-utils_CVE-2021-41269_cron-utils-9.0.2.csv",
+    "project_name": "cron-utils",
+    "cve_id": "CVE-2021-41269",
+    "details_and_version": "cron-utils-9.0.2",
+    "version": "9.0.2"
+  },
+  {
+    "filename": "rdf4j_CVE-2018-20227_rdf4j-2.4.2.csv",
+    "project_name": "rdf4j",
+    "cve_id": "CVE-2018-20227",
+    "details_and_version": "rdf4j-2.4.2",
+    "version": "2.4.2"
+  },
+  {
+    "filename": "commons-compress_CVE-2018-11771_commons-compress-rel-1.17.csv",
+    "project_name": "commons-compress",
+    "cve_id": "CVE-2018-11771",
+    "details_and_version": "commons-compress-rel-1.17",
+    "version": "1.17"
+  },
+  {
+    "filename": "jackson-dataformats-binary_CVE-2020-28491_jackson-dataformats-binary-jackson-dataformats-binary-2.12.0.csv",
+    "project_name": "jackson-dataformats-binary",
+    "cve_id": "CVE-2020-28491",
+    "details_and_version": "jackson-dataformats-binary-jackson-dataformats-binary-2.12.0",
+    "version": "2.12.0"
+  },
+  {
+    "filename": "async-http-client_CVE-2017-14063_async-http-client-async-http-client-project-2.0.29.csv",
+    "project_name": "async-http-client",
+    "cve_id": "CVE-2017-14063",
+    "details_and_version": "async-http-client-async-http-client-project-2.0.29",
+    "version": "2.0.29"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-35728_jackson-databind-jackson-databind-2.9.10.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-35728",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10.7",
+    "version": "2.9.10.7"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-36189_jackson-databind-jackson-databind-2.9.10.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-36189",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10.7",
+    "version": "2.9.10.7"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-36184_jackson-databind-jackson-databind-2.9.10.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-36184",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10.7",
+    "version": "2.9.10.7"
+  },
+  {
+    "filename": "commons-compress_CVE-2018-1324_commons-compress-rel-1.15.csv",
+    "project_name": "commons-compress",
+    "cve_id": "CVE-2018-1324",
+    "details_and_version": "commons-compress-rel-1.15",
+    "version": "1.15"
+  },
+  {
+    "filename": "jackson-databind_CVE-2019-14439_jackson-databind-jackson-databind-2.9.9.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2019-14439",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.9",
+    "version": "2.9.9"
+  },
+  {
+    "filename": "cxf-fediz_CVE-2017-7661_cxf-fediz-fediz-1.2.3.csv",
+    "project_name": "cxf-fediz",
+    "cve_id": "CVE-2017-7661",
+    "details_and_version": "cxf-fediz-fediz-1.2.3",
+    "version": "1.2.3"
+  },
+  {
+    "filename": "jackson-databind_CVE-2019-12384_jackson-databind-jackson-databind-2.9.9.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2019-12384",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.9",
+    "version": "2.9.9"
+  },
+  {
+    "filename": "jackson-databind_CVE-2019-16943_jackson-databind-jackson-databind-2.0.0-RC2.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2019-16943",
+    "details_and_version": "jackson-databind-jackson-databind-2.0.0-RC2",
+    "version": "2.0.0-RC2"
+  },
+  {
+    "filename": "prime-jwt_CVE-2018-1000125_fusionauth-jwt-1.2.1.csv",
+    "project_name": "prime-jwt",
+    "cve_id": "CVE-2018-1000125",
+    "details_and_version": "fusionauth-jwt-1.2.1",
+    "version": "1.2.1"
+  },
+  {
+    "filename": "jackson-databind_CVE-2018-12023_jackson-databind-jackson-databind-2.9.4.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2018-12023",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.4",
+    "version": "2.9.4"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-11111_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-11111",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "qpid-broker-j_CVE-2018-8030_qpid-broker-j-7.0.4.csv",
+    "project_name": "qpid-broker-j",
+    "cve_id": "CVE-2018-8030",
+    "details_and_version": "qpid-broker-j-7.0.4",
+    "version": "7.0.4"
+  },
+  {
+    "filename": "jackson-databind_CVE-2018-19360_jackson-databind-jackson-databind-2.9.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2018-19360",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.7",
+    "version": "2.9.7"
+  },
+  {
+    "filename": "active-directory-plugin_CVE-2017-2649_active-directory-plugin-active-directory-2.2.csv",
+    "project_name": "active-directory-plugin",
+    "cve_id": "CVE-2017-2649",
+    "details_and_version": "active-directory-plugin-active-directory-2.2",
+    "version": "2.2"
+  },
+  {
+    "filename": "xstream_CVE-2017-7957_xstream-XSTREAM_1_4_9.csv",
+    "project_name": "xstream",
+    "cve_id": "CVE-2017-7957",
+    "details_and_version": "xstream-XSTREAM_1_4_9",
+    "version": "1_4_9"
+  },
+  {
+    "filename": "Resteasy_CVE-2020-1695_resteasy-4.0.0.Final.csv",
+    "project_name": "Resteasy",
+    "cve_id": "CVE-2020-1695",
+    "details_and_version": "resteasy-4.0.0.Final",
+    "version": "4.0.0"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-35490_jackson-databind-jackson-databind-2.9.10.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-35490",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10.7",
+    "version": "2.9.10.7"
+  },
+  {
+    "filename": "swagger-codegen_CVE-2021-21363_swagger-codegen-2.4.18.csv",
+    "project_name": "swagger-codegen",
+    "cve_id": "CVE-2021-21363",
+    "details_and_version": "swagger-codegen-2.4.18",
+    "version": "2.4.18"
+  },
+  {
+    "filename": "brooklyn-server_CVE-2016-8744_brooklyn-server-rel-apache-brooklyn-0.9.0.csv",
+    "project_name": "brooklyn-server",
+    "cve_id": "CVE-2016-8744",
+    "details_and_version": "brooklyn-server-rel-apache-brooklyn-0.9.0",
+    "version": "0.9.0"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-36186_jackson-databind-jackson-databind-2.9.10.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-36186",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10.7",
+    "version": "2.9.10.7"
+  },
+  {
+    "filename": "xstream_CVE-2020-26217_xstream-XSTREAM_1_4_13.csv",
+    "project_name": "xstream",
+    "cve_id": "CVE-2020-26217",
+    "details_and_version": "xstream-XSTREAM_1_4_13",
+    "version": "1_4_13"
+  },
+  {
+    "filename": "google-oauth-java-client_CVE-2020-7692_google-oauth-java-client-1.30.5.csv",
+    "project_name": "google-oauth-java-client",
+    "cve_id": "CVE-2020-7692",
+    "details_and_version": "google-oauth-java-client-1.30.5",
+    "version": "1.30.5"
+  },
+  {
+    "filename": "jackson-databind_CVE-2018-14719_jackson-databind-jackson-databind-2.0.0-RC3.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2018-14719",
+    "details_and_version": "jackson-databind-jackson-databind-2.0.0-RC3",
+    "version": "2.0.0-RC3"
+  },
+  {
+    "filename": "jackson-databind_CVE-2019-14893_jackson-databind-jackson-databind-2.9.9.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2019-14893",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.9",
+    "version": "2.9.9"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-14195_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-14195",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "undertow_CVE-2018-1114_undertow-2.0.4.Final.csv",
+    "project_name": "undertow",
+    "cve_id": "CVE-2018-1114",
+    "details_and_version": "undertow-2.0.4.Final",
+    "version": "2.0.4"
+  },
+  {
+    "filename": "commons-fileupload_CVE-2013-2186_commons-fileupload-FILEUPLOAD_1_3.csv",
+    "project_name": "commons-fileupload",
+    "cve_id": "CVE-2013-2186",
+    "details_and_version": "commons-fileupload-FILEUPLOAD_1_3",
+    "version": "1_3"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-11619_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-11619",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-24750_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-24750",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "santuario-java_CVE-2019-12400_santuario-java-xmlsec-2.1.3.csv",
+    "project_name": "santuario-java",
+    "cve_id": "CVE-2019-12400",
+    "details_and_version": "santuario-java-xmlsec-2.1.3",
+    "version": "2.1.3"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-11113_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-11113",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "pgjdbc_CVE-2018-10936_pgjdbc-REL42.2.5.csv",
+    "project_name": "pgjdbc",
+    "cve_id": "CVE-2018-10936",
+    "details_and_version": "pgjdbc-REL42.2.5",
+    "version": "42.2.5"
+  },
+  {
+    "filename": "tika_CVE-2015-3271_tika-1.8.csv",
+    "project_name": "tika",
+    "cve_id": "CVE-2015-3271",
+    "details_and_version": "tika-1.8",
+    "version": "1.8"
+  },
+  {
+    "filename": "jackson-databind_CVE-2018-14720_jackson-databind-jackson-databind-2.0.0-RC3.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2018-14720",
+    "details_and_version": "jackson-databind-jackson-databind-2.0.0-RC3",
+    "version": "2.0.0-RC3"
+  },
+  {
+    "filename": "Openfire_CVE-2019-18393_Openfire-4.4.2.csv",
+    "project_name": "Openfire",
+    "cve_id": "CVE-2019-18393",
+    "details_and_version": "Openfire-4.4.2",
+    "version": "4.4.2"
+  },
+  {
+    "filename": "spring-data-commons_CVE-2018-1274_spring-data-commons-2.0.0.M4.csv",
+    "project_name": "spring-data-commons",
+    "cve_id": "CVE-2018-1274",
+    "details_and_version": "spring-data-commons-2.0.0.M4",
+    "version": "2.0.0"
+  },
+  {
+    "filename": "jackson-databind_CVE-2018-14718_jackson-databind-jackson-databind-2.0.0-RC3.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2018-14718",
+    "details_and_version": "jackson-databind-jackson-databind-2.0.0-RC3",
+    "version": "2.0.0-RC3"
+  },
+  {
+    "filename": "picketlink-bindings_CVE-2015-6254_picketlink-bindings-2.6.0.CR5.csv",
+    "project_name": "picketlink-bindings",
+    "cve_id": "CVE-2015-6254",
+    "details_and_version": "picketlink-bindings-2.6.0.CR5",
+    "version": "2.6.0"
+  },
+  {
+    "filename": "qpid-broker-j_CVE-2016-8741_qpid-broker-j-6.0.2.csv",
+    "project_name": "qpid-broker-j",
+    "cve_id": "CVE-2016-8741",
+    "details_and_version": "qpid-broker-j-6.0.2",
+    "version": "6.0.2"
+  },
+  {
+    "filename": "weixin-java-tools_CVE-2018-20318_WxJava-3.2.0.csv",
+    "project_name": "weixin-java-tools",
+    "cve_id": "CVE-2018-20318",
+    "details_and_version": "WxJava-3.2.0",
+    "version": "3.2.0"
+  },
+  {
+    "filename": "netty_CVE-2015-2156_netty-netty-3.4.4.Final.csv",
+    "project_name": "netty",
+    "cve_id": "CVE-2015-2156",
+    "details_and_version": "netty-netty-3.4.4.Final",
+    "version": "3.4.4"
+  },
+  {
+    "filename": "perwendel-spark_CVE-2016-9177_spark-2.5.csv",
+    "project_name": "perwendel-spark",
+    "cve_id": "CVE-2016-9177",
+    "details_and_version": "spark-2.5",
+    "version": "2.5"
+  },
+  {
+    "filename": "maven-shared-utils_CVE-2022-29599_maven-shared-utils-maven-shared-utils-3.3.2.csv",
+    "project_name": "maven-shared-utils",
+    "cve_id": "CVE-2022-29599",
+    "details_and_version": "maven-shared-utils-maven-shared-utils-3.3.2",
+    "version": "3.3.2"
+  },
+  {
+    "filename": "perwendel-spark_CVE-2018-9159_spark-1.1.1.csv",
+    "project_name": "perwendel-spark",
+    "cve_id": "CVE-2018-9159",
+    "details_and_version": "spark-1.1.1",
+    "version": "1.1.1"
+  },
+  {
+    "filename": "undertow_CVE-2014-7816_undertow-1.2.0.Beta2.csv",
+    "project_name": "undertow",
+    "cve_id": "CVE-2014-7816",
+    "details_and_version": "undertow-1.2.0.Beta2",
+    "version": "1.2.0"
+  },
+  {
+    "filename": "jackson-databind_CVE-2018-14721_jackson-databind-jackson-databind-2.0.0-RC3.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2018-14721",
+    "details_and_version": "jackson-databind-jackson-databind-2.0.0-RC3",
+    "version": "2.0.0-RC3"
+  },
+  {
+    "filename": "Prasanna_CVE-2019-1003010_Prasanna-git-3.9.1.csv",
+    "project_name": "Prasanna",
+    "cve_id": "CVE-2019-1003010",
+    "details_and_version": "Prasanna-git-3.9.1",
+    "version": "3.9.1"
+  },
+  {
+    "filename": "jsoup_CVE-2015-6748_jsoup-jsoup-1.8.1.a.csv",
+    "project_name": "jsoup",
+    "cve_id": "CVE-2015-6748",
+    "details_and_version": "jsoup-jsoup-1.8.1.a",
+    "version": "1.8.1"
+  },
+  {
+    "filename": "swagger-codegen_CVE-2021-21364_swagger-codegen-2.4.18.csv",
+    "project_name": "swagger-codegen",
+    "cve_id": "CVE-2021-21364",
+    "details_and_version": "swagger-codegen-2.4.18",
+    "version": "2.4.18"
+  },
+  {
+    "filename": "santuario-java_CVE-2013-2172_santuario-java-1.5.4.csv",
+    "project_name": "santuario-java",
+    "cve_id": "CVE-2013-2172",
+    "details_and_version": "santuario-java-1.5.4",
+    "version": "1.5.4"
+  },
+  {
+    "filename": "jackson-databind_CVE-2019-17531_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2019-17531",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "jackson-databind_CVE-2021-20190_jackson-databind-jackson-databind-2.9.10.6.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2021-20190",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10.6",
+    "version": "2.9.10.6"
+  },
+  {
+    "filename": "jackson-databind_CVE-2018-5968_jackson-databind-jackson-databind-2.8.11.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2018-5968",
+    "details_and_version": "jackson-databind-jackson-databind-2.8.11",
+    "version": "2.8.11"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-36182_jackson-databind-jackson-databind-2.9.10.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-36182",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10.7",
+    "version": "2.9.10.7"
+  },
+  {
+    "filename": "jackson-databind_CVE-2019-12086_jackson-databind-jackson-databind-2.9.8.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2019-12086",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.8",
+    "version": "2.9.8"
+  },
+  {
+    "filename": "portals-pluto_CVE-2018-1306_portals-pluto-pluto-3.0.0.csv",
+    "project_name": "portals-pluto",
+    "cve_id": "CVE-2018-1306",
+    "details_and_version": "portals-pluto-pluto-3.0.0",
+    "version": "3.0.0"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-14062_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-14062",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "retrofit_CVE-2018-1000844_retrofit-parent-2.4.0.csv",
+    "project_name": "retrofit",
+    "cve_id": "CVE-2018-1000844",
+    "details_and_version": "retrofit-parent-2.4.0",
+    "version": "2.4.0"
+  },
+  {
+    "filename": "logback_CVE-2017-5929_logback-v_1.1.11.csv",
+    "project_name": "logback",
+    "cve_id": "CVE-2017-5929",
+    "details_and_version": "logback-v_1.1.11",
+    "version": "1.1.11"
+  },
+  {
+    "filename": "nv-websocket-client_CVE-2017-1000209_nv-websocket-client-nv-websocket-client-2.2.csv",
+    "project_name": "nv-websocket-client",
+    "cve_id": "CVE-2017-1000209",
+    "details_and_version": "nv-websocket-client-nv-websocket-client-2.2",
+    "version": "2.2"
+  },
+  {
+    "filename": "libpam4j_CVE-2017-12197_libpam4j-libpam4j-1.8.csv",
+    "project_name": "libpam4j",
+    "cve_id": "CVE-2017-12197",
+    "details_and_version": "libpam4j-libpam4j-1.8",
+    "version": "1.8"
+  },
+  {
+    "filename": "jackson-databind_CVE-2018-12022_jackson-databind-jackson-databind-2.9.4.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2018-12022",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.4",
+    "version": "2.9.4"
+  },
+  {
+    "filename": "xstream_CVE-2021-43859_xstream-XSTREAM_1_4_18.csv",
+    "project_name": "xstream",
+    "cve_id": "CVE-2021-43859",
+    "details_and_version": "xstream-XSTREAM_1_4_18",
+    "version": "1_4_18"
+  },
+  {
+    "filename": "vertx-web_CVE-2018-12540_vertx-web-3.5.2.csv",
+    "project_name": "vertx-web",
+    "cve_id": "CVE-2018-12540",
+    "details_and_version": "vertx-web-3.5.2",
+    "version": "3.5.2"
+  },
+  {
+    "filename": "xstream_CVE-2020-26258_xstream-XSTREAM_1_4_14.csv",
+    "project_name": "xstream",
+    "cve_id": "CVE-2020-26258",
+    "details_and_version": "xstream-XSTREAM_1_4_14",
+    "version": "1_4_14"
+  },
+  {
+    "filename": "qpid-broker-j_CVE-2016-4974_qpid-broker-j-6.0.3.csv",
+    "project_name": "qpid-broker-j",
+    "cve_id": "CVE-2016-4974",
+    "details_and_version": "qpid-broker-j-6.0.3",
+    "version": "6.0.3"
+  },
+  {
+    "filename": "netty_CVE-2014-3488_netty-netty-3.9.1.1.Final.csv",
+    "project_name": "netty",
+    "cve_id": "CVE-2014-3488",
+    "details_and_version": "netty-netty-3.9.1.1.Final",
+    "version": "3.9.1.1"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-8840_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-8840",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "jackson-databind_CVE-2018-19362_jackson-databind-jackson-databind-2.9.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2018-19362",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.7",
+    "version": "2.9.7"
+  },
+  {
+    "filename": "vertx-web_CVE-2018-12542_vertx-web-3.5.3.csv",
+    "project_name": "vertx-web",
+    "cve_id": "CVE-2018-12542",
+    "details_and_version": "vertx-web-3.5.3",
+    "version": "3.5.3"
+  },
+  {
+    "filename": "shiro_CVE-2016-6802_shiro-shiro-root-1.3.1.csv",
+    "project_name": "shiro",
+    "cve_id": "CVE-2016-6802",
+    "details_and_version": "shiro-shiro-root-1.3.1",
+    "version": "1.3.1"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-9548_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-9548",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-36518_jackson-databind-jackson-databind-2.0.0-RC2.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-36518",
+    "details_and_version": "jackson-databind-jackson-databind-2.0.0-RC2",
+    "version": "2.0.0-RC2"
+  },
+  {
+    "filename": "directory-ldap-api_CVE-2018-1337_directory-ldap-api-1.0.0.csv",
+    "project_name": "directory-ldap-api",
+    "cve_id": "CVE-2018-1337",
+    "details_and_version": "directory-ldap-api-1.0.0",
+    "version": "1.0.0"
+  },
+  {
+    "filename": "snakeyaml_CVE-2017-18640_snakeyaml-1.17.csv",
+    "project_name": "snakeyaml",
+    "cve_id": "CVE-2017-18640",
+    "details_and_version": "snakeyaml-1.17",
+    "version": "1.17"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-36187_jackson-databind-jackson-databind-2.9.10.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-36187",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10.7",
+    "version": "2.9.10.7"
+  },
+  {
+    "filename": "vert.x_CVE-2018-12537_vert.x-3.4.2.csv",
+    "project_name": "vert.x",
+    "cve_id": "CVE-2018-12537",
+    "details_and_version": "vert.x-3.4.2",
+    "version": "3.4.2"
+  },
+  {
+    "filename": "santuario-java_CVE-2013-4517_santuario-java-1.5.5.csv",
+    "project_name": "santuario-java",
+    "cve_id": "CVE-2013-4517",
+    "details_and_version": "santuario-java-1.5.5",
+    "version": "1.5.5"
+  },
+  {
+    "filename": "hibernate-validator_CVE-2019-10219_hibernate-validator-6.1.0.Alpha6.csv",
+    "project_name": "hibernate-validator",
+    "cve_id": "CVE-2019-10219",
+    "details_and_version": "hibernate-validator-6.1.0.Alpha6",
+    "version": "6.1.0"
+  },
+  {
+    "filename": "esapi-java-legacy_CVE-2022-23457_esapi-java-legacy-esapi-2.2.3.1.csv",
+    "project_name": "esapi-java-legacy",
+    "cve_id": "CVE-2022-23457",
+    "details_and_version": "esapi-java-legacy-esapi-2.2.3.1",
+    "version": "2.2.3.1"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-35491_jackson-databind-jackson-databind-2.9.10.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-35491",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10.7",
+    "version": "2.9.10.7"
+  },
+  {
+    "filename": "vertx-web_CVE-2018-12544_vertx-web-3.5.3.csv",
+    "project_name": "vertx-web",
+    "cve_id": "CVE-2018-12544",
+    "details_and_version": "vertx-web-3.5.3",
+    "version": "3.5.3"
+  },
+  {
+    "filename": "vert.x_CVE-2018-12541_vert.x-3.5.3.CR1.csv",
+    "project_name": "vert.x",
+    "cve_id": "CVE-2018-12541",
+    "details_and_version": "vert.x-3.5.3.CR1",
+    "version": "3.5.3"
+  },
+  {
+    "filename": "commons-fileupload_CVE-2014-0050_commons-fileupload-FILEUPLOAD_1_3.csv",
+    "project_name": "commons-fileupload",
+    "cve_id": "CVE-2014-0050",
+    "details_and_version": "commons-fileupload-FILEUPLOAD_1_3",
+    "version": "1_3"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-11112_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-11112",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "fess_CVE-2018-1000822_fess-fess-12.2.0.csv",
+    "project_name": "fess",
+    "cve_id": "CVE-2018-1000822",
+    "details_and_version": "fess-fess-12.2.0",
+    "version": "12.2.0"
+  },
+  {
+    "filename": "commons-email_CVE-2017-9801_commons-email-EMAIL_1_5_RC1.csv",
+    "project_name": "commons-email",
+    "cve_id": "CVE-2017-9801",
+    "details_and_version": "commons-email-EMAIL_1_5_RC1",
+    "version": "1_5"
+  },
+  {
+    "filename": "myfaces_CVE-2011-4367_myfaces-myfaces-core-project-2.1.5.csv",
+    "project_name": "myfaces",
+    "cve_id": "CVE-2011-4367",
+    "details_and_version": "myfaces-myfaces-core-project-2.1.5",
+    "version": "2.1.5"
+  },
+  {
+    "filename": "zookeeper_CVE-2019-0201_zookeeper-release-3.6.3-2.csv",
+    "project_name": "zookeeper",
+    "cve_id": "CVE-2019-0201",
+    "details_and_version": "zookeeper-release-3.6.3-2",
+    "version": "3.6.3-2"
+  },
+  {
+    "filename": "jackrabbit_CVE-2016-6801_jackrabbit-jackrabbit-2.8.2.csv",
+    "project_name": "jackrabbit",
+    "cve_id": "CVE-2016-6801",
+    "details_and_version": "jackrabbit-jackrabbit-2.8.2",
+    "version": "2.8.2"
+  },
+  {
+    "filename": "jjbpm-wbbpm_CVE-2013-6465_jbpm-wb-6.1.0.Final.csv",
+    "project_name": "jjbpm-wbbpm",
+    "cve_id": "CVE-2013-6465",
+    "details_and_version": "jbpm-wb-6.1.0.Final",
+    "version": "6.1.0"
+  },
+  {
+    "filename": "cxf-fediz_CVE-2017-7662_cxf-fediz-fediz-1.4.0.csv",
+    "project_name": "cxf-fediz",
+    "cve_id": "CVE-2017-7662",
+    "details_and_version": "cxf-fediz-fediz-1.4.0",
+    "version": "1.4.0"
+  },
+  {
+    "filename": "script-security-plugin_CVE-2019-1003000_script-security-plugin-script-security-1.49.csv",
+    "project_name": "script-security-plugin",
+    "cve_id": "CVE-2019-1003000",
+    "details_and_version": "script-security-plugin-script-security-1.49",
+    "version": "1.49"
+  },
+  {
+    "filename": "Openfire_CVE-2019-18394_Openfire-4.4.2.csv",
+    "project_name": "Openfire",
+    "cve_id": "CVE-2019-18394",
+    "details_and_version": "Openfire-4.4.2",
+    "version": "4.4.2"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-36185_jackson-databind-jackson-databind-2.9.10.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-36185",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10.7",
+    "version": "2.9.10.7"
+  },
+  {
+    "filename": "swagger-parser_CVE-2017-1000207_swagger-parser-1.0.27.csv",
+    "project_name": "swagger-parser",
+    "cve_id": "CVE-2017-1000207",
+    "details_and_version": "swagger-parser-1.0.27",
+    "version": "1.0.27"
+  },
+  {
+    "filename": "Resteasy_CVE-2017-7561_resteasy-3.5.0.Final.csv",
+    "project_name": "Resteasy",
+    "cve_id": "CVE-2017-7561",
+    "details_and_version": "resteasy-3.5.0.Final",
+    "version": "3.5.0"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-36183_jackson-databind-jackson-databind-2.2.4.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-36183",
+    "details_and_version": "jackson-databind-jackson-databind-2.2.4",
+    "version": "2.2.4"
+  },
+  {
+    "filename": "jackson-databind_CVE-2017-15095_jackson-databind-jackson-databind-2.9.0.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2017-15095",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.0",
+    "version": "2.9.0"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-36188_jackson-databind-jackson-databind-2.9.10.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-36188",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10.7",
+    "version": "2.9.10.7"
+  },
+  {
+    "filename": "tika_CVE-2016-6809_tika-1.13.csv",
+    "project_name": "tika",
+    "cve_id": "CVE-2016-6809",
+    "details_and_version": "tika-1.13",
+    "version": "1.13"
+  },
+  {
+    "filename": "jackson-databind_CVE-2017-17485_jackson-databind-jackson-databind-2.9.3.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2017-17485",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.3",
+    "version": "2.9.3"
+  },
+  {
+    "filename": "junit4_CVE-2020-15250_junit4-r4.13.csv",
+    "project_name": "junit4",
+    "cve_id": "CVE-2020-15250",
+    "details_and_version": "junit4-r4.13",
+    "version": "4.13"
+  },
+  {
+    "filename": "commons-compress_CVE-2021-35517_commons-compress-COMPRESS-1.7-RC2.csv",
+    "project_name": "commons-compress",
+    "cve_id": "CVE-2021-35517",
+    "details_and_version": "commons-compress-COMPRESS-1.7-RC2",
+    "version": "1.7-RC2"
+  },
+  {
+    "filename": "plexus-archiver_CVE-2018-1002200_plexus-archiver-plexus-archiver-3.5.csv",
+    "project_name": "plexus-archiver",
+    "cve_id": "CVE-2018-1002200",
+    "details_and_version": "plexus-archiver-plexus-archiver-3.5",
+    "version": "3.5"
+  },
+  {
+    "filename": "jackson-databind_CVE-2019-17267_jackson-databind-jackson-databind-2.9.9.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2019-17267",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.9",
+    "version": "2.9.9"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-24616_jackson-databind-jackson-databind-2.9.10.5.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-24616",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10.5",
+    "version": "2.9.10.5"
+  },
+  {
+    "filename": "commons-compress_CVE-2021-35516_commons-compress-COMPRESS-1.7-RC2.csv",
+    "project_name": "commons-compress",
+    "cve_id": "CVE-2021-35516",
+    "details_and_version": "commons-compress-COMPRESS-1.7-RC2",
+    "version": "1.7-RC2"
+  },
+  {
+    "filename": "cxf-fediz_CVE-2016-4464_cxf-fediz-fediz-1.3.0.csv",
+    "project_name": "cxf-fediz",
+    "cve_id": "CVE-2016-4464",
+    "details_and_version": "cxf-fediz-fediz-1.3.0",
+    "version": "1.3.0"
+  },
+  {
+    "filename": "undertow_CVE-2017-7559_undertow-2.0.0.Alpha1.csv",
+    "project_name": "undertow",
+    "cve_id": "CVE-2017-7559",
+    "details_and_version": "undertow-2.0.0.Alpha1",
+    "version": "2.0.0"
+  },
+  {
+    "filename": "jackson-databind_CVE-2019-20330_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2019-20330",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "esapi-java-legacy_CVE-2013-5960_esapi-java-legacy-esapi-2.1.0.csv",
+    "project_name": "esapi-java-legacy",
+    "cve_id": "CVE-2013-5960",
+    "details_and_version": "esapi-java-legacy-esapi-2.1.0",
+    "version": "2.1.0"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-10969_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-10969",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "orientdb_CVE-2015-2913_orientdb-2.1.0.csv",
+    "project_name": "orientdb",
+    "cve_id": "CVE-2015-2913",
+    "details_and_version": "orientdb-2.1.0",
+    "version": "2.1.0"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-14060_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-14060",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "plexus-utils_CVE-2017-1000487_plexus-utils-plexus-utils-3.0.14.csv",
+    "project_name": "plexus-utils",
+    "cve_id": "CVE-2017-1000487",
+    "details_and_version": "plexus-utils-plexus-utils-3.0.14",
+    "version": "3.0.14"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-36180_jackson-databind-jackson-databind-2.9.10.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-36180",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10.7",
+    "version": "2.9.10.7"
+  },
+  {
+    "filename": "xstream_CVE-2020-26259_xstream-XSTREAM_1_4_14.csv",
+    "project_name": "xstream",
+    "cve_id": "CVE-2020-26259",
+    "details_and_version": "xstream-XSTREAM_1_4_14",
+    "version": "1_4_14"
+  },
+  {
+    "filename": "Resteasy_CVE-2016-9606_resteasy-3.1.1.Final.csv",
+    "project_name": "Resteasy",
+    "cve_id": "CVE-2016-9606",
+    "details_and_version": "resteasy-3.1.1.Final",
+    "version": "3.1.1"
+  },
+  {
+    "filename": "json-smart-v2_CVE-2021-31684_json-smart-v2-2.4.1.csv",
+    "project_name": "json-smart-v2",
+    "cve_id": "CVE-2021-31684",
+    "details_and_version": "json-smart-v2-2.4.1",
+    "version": "2.4.1"
+  },
+  {
+    "filename": "jackson-databind_CVE-2019-16335_jackson-databind-jackson-databind-2.9.9.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2019-16335",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.9",
+    "version": "2.9.9"
+  },
+  {
+    "filename": "undertow_CVE-2016-9589_undertow-1.4.7.Final.csv",
+    "project_name": "undertow",
+    "cve_id": "CVE-2016-9589",
+    "details_and_version": "undertow-1.4.7.Final",
+    "version": "1.4.7"
+  },
+  {
+    "filename": "esapi-java-legacy_CVE-2013-5679_esapi-java-legacy-esapi-2.0_rc10.csv",
+    "project_name": "esapi-java-legacy",
+    "cve_id": "CVE-2013-5679",
+    "details_and_version": "esapi-java-legacy-esapi-2.0_rc10",
+    "version": "2.0"
+  },
+  {
+    "filename": "commons-compress_CVE-2019-12402_commons-compress-rel-1.18.csv",
+    "project_name": "commons-compress",
+    "cve_id": "CVE-2019-12402",
+    "details_and_version": "commons-compress-rel-1.18",
+    "version": "1.18"
+  },
+  {
+    "filename": "undertow_CVE-2017-2666_undertow-1.1.9.Final.csv",
+    "project_name": "undertow",
+    "cve_id": "CVE-2017-2666",
+    "details_and_version": "undertow-1.1.9.Final",
+    "version": "1.1.9"
+  },
+  {
+    "filename": "jackson-databind_CVE-2018-19361_jackson-databind-jackson-databind-2.9.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2018-19361",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.7",
+    "version": "2.9.7"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-36179_jackson-databind-jackson-databind-2.9.10.7.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-36179",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10.7",
+    "version": "2.9.10.7"
+  },
+  {
+    "filename": "velocity-tools_CVE-2020-13959_velocity-tools-3.0.csv",
+    "project_name": "velocity-tools",
+    "cve_id": "CVE-2020-13959",
+    "details_and_version": "velocity-tools-3.0",
+    "version": "3.0"
+  },
+  {
+    "filename": "sling-org-apache-sling-xss_CVE-2017-15717_sling-org-apache-sling-xss-org.apache.sling.xss-2.0.0.csv",
+    "project_name": "sling-org-apache-sling-xss",
+    "cve_id": "CVE-2017-15717",
+    "details_and_version": "sling-org-apache-sling-xss-org.apache.sling.xss-2.0.0",
+    "version": "2.0.0"
+  },
+  {
+    "filename": "keycloak_CVE-2014-3651_keycloak-1.0.3.Final.csv",
+    "project_name": "keycloak",
+    "cve_id": "CVE-2014-3651",
+    "details_and_version": "keycloak-1.0.3.Final",
+    "version": "1.0.3"
+  },
+  {
+    "filename": "vertx-web_CVE-2020-35217_vertx-web-4.0.0-milestone4.csv",
+    "project_name": "vertx-web",
+    "cve_id": "CVE-2020-35217",
+    "details_and_version": "vertx-web-4.0.0-milestone4",
+    "version": "4.0.0-milestone4"
+  },
+  {
+    "filename": "swagger-parser_CVE-2017-1000208_swagger-parser-1.0.27.csv",
+    "project_name": "swagger-parser",
+    "cve_id": "CVE-2017-1000208",
+    "details_and_version": "swagger-parser-1.0.27",
+    "version": "1.0.27"
+  },
+  {
+    "filename": "jackson-modules-java8_CVE-2018-1000873_jackson-modules-java8-jackson-modules-java8-2.9.6.csv",
+    "project_name": "jackson-modules-java8",
+    "cve_id": "CVE-2018-1000873",
+    "details_and_version": "jackson-modules-java8-jackson-modules-java8-2.9.6",
+    "version": "2.9.6"
+  },
+  {
+    "filename": "jackson-databind_CVE-2018-7489_jackson-databind-jackson-databind-2.9.4.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2018-7489",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.4",
+    "version": "2.9.4"
+  },
+  {
+    "filename": "qpid-proton-j_CVE-2018-17187_qpid-proton-j-python-qpid-proton-0.15.0.post1.csv",
+    "project_name": "qpid-proton-j",
+    "cve_id": "CVE-2018-17187",
+    "details_and_version": "qpid-proton-j-python-qpid-proton-0.15.0.post1",
+    "version": "0.15.0"
+  },
+  {
+    "filename": "sling-org-apache-sling-auth-core_CVE-2017-15700_sling-org-apache-sling-auth-core-org.apache.sling.auth.core-1.4.0.csv",
+    "project_name": "sling-org-apache-sling-auth-core",
+    "cve_id": "CVE-2017-15700",
+    "details_and_version": "sling-org-apache-sling-auth-core-org.apache.sling.auth.core-1.4.0",
+    "version": "1.4.0"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-9547_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-9547",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "jackson-databind_CVE-2020-11620_jackson-databind-jackson-databind-2.9.10.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2020-11620",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.10",
+    "version": "2.9.10"
+  },
+  {
+    "filename": "jackson-databind_CVE-2019-14892_jackson-databind-jackson-databind-2.9.9.csv",
+    "project_name": "jackson-databind",
+    "cve_id": "CVE-2019-14892",
+    "details_and_version": "jackson-databind-jackson-databind-2.9.9",
+    "version": "2.9.9"
+  },
+  {
+    "filename": "cxf_CVE-2015-5253_cxf-cxf-3.1.2.csv",
+    "project_name": "cxf",
+    "cve_id": "CVE-2015-5253",
+    "details_and_version": "cxf-cxf-3.1.2",
+    "version": "3.1.2"
+  }
+]
